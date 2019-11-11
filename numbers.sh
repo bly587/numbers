@@ -14,5 +14,5 @@ do
 		a="odd"
 	fi
 	echo $n $a
-	n=$[$n+1]
+	n=$((n+1))
 done
